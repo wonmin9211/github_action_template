@@ -6,7 +6,7 @@ inputs:
      description: 'Enter a number'
      required: true
      default: "1"
-output:
+outputs:
   num_squared:
     description: 'Square of the input'
     # need to specify the extra `value` field for `composite` actions
